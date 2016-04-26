@@ -2,8 +2,9 @@
 
 #Scrape from fangraphs
 
-FanGraph Scrape.R - Scrapes Regular split from Fangraph from 1975 - 2015
-*library('RSelenium')
+FanGraph Scrape.R - Scrapes Regular split from Fangraph from 1975 - 2015:
+
+-library('RSelenium')
 *library('dplyr')
   -library('httr')
   -library('stringr')
